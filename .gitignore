@@ -1,0 +1,5 @@
+# Ignore documentation generated directories and files
+.structurizr
+workspace.json
+# Ignore local environment files
+.env
